@@ -1,6 +1,6 @@
-# iRacingSequenceDirector
+# iRacing Sequence Director
 
-An editing tool for iRacing replays. Create a sequence of 'nodes' consisting of a time, driver and camera and the application will playback the sequence of shots for recording of viewing. Includes support for recording in iRacing itself using the built-in capture facility (no need for any external software) or can be used with capture software (OBS, etc.) with overlays.
+An editing tool for iRacing replays. Create a sequence of 'nodes' consisting of a time, driver and camera and the application will play back the sequence of shots for recording or viewing. Includes support for recording in iRacing itself using the built-in capture facility (no need for any external software) or can be used with capture software (OBS, etc.) with overlays.
 
 Each replay has its own save file so no need to edit everything in one session.
 
