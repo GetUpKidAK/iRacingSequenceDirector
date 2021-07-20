@@ -17,6 +17,9 @@ Here's a quick video showing the basic features (using an early release version)
 
 [![How to Use](http://img.youtube.com/vi/7DBsk7VQ1dU/0.jpg)](https://www.youtube.com/watch?v=7DBsk7VQ1dU)
 
-**Note:** To use the in-sim recording, the following setting must be enabled (this also requires the sim to be restarted):
+## Notes
 
+- To use the in-sim recording, the following setting must be enabled (this also requires the sim to be restarted):
 ![Misc Settings](https://i.ibb.co/Rppt27d/Misc-Settings.jpg)
+- You can adjust the output quality and file format of the recordings in the app.ini file (found under My Documents/iRacing). These are commented but look like this:
+![app.ini](https://i.ibb.co/92cbP7M/appIni.png)
