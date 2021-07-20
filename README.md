@@ -28,3 +28,5 @@ This requires the sim to be restarted if any changes are made.
 This is found under My Documents/iRacing. The lines are commented but look like this:
 
 ![app.ini](https://i.ibb.co/92cbP7M/appIni.png)
+
+You can view discussion for the app over at the [iRacing Forums](https://forums.iracing.com/discussion/605/iracing-sequence-director-editing-tool-for-replays).
