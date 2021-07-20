@@ -16,3 +16,7 @@ Each replay has its own save file so no need to edit everything in one session.
 Here's a quick video showing the basic features (using an early release version)
 
 [![How to Use](http://img.youtube.com/vi/7DBsk7VQ1dU/0.jpg)](https://www.youtube.com/watch?v=7DBsk7VQ1dU)
+
+**Note:** To use the in-sim recording, the following setting must be enabled (this also requires the sim to be restarted):
+
+![Misc Settings](https://i.ibb.co/Rppt27d/Misc-Settings.jpg)
