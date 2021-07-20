@@ -19,7 +19,12 @@ Here's a quick video showing the basic features (using an early release version)
 
 ## Notes
 
-- To use the in-sim recording, the following setting must be enabled (this also requires the sim to be restarted):
+- To use the in-sim recording, the 'Enable video and screen capture' setting must be enabled in-sim.
+This requires the sim to be restarted if any changes are made.
+
 ![Misc Settings](https://i.ibb.co/Rppt27d/Misc-Settings.jpg)
-- You can adjust the output quality and file format of the recordings in the app.ini file (found under My Documents/iRacing). These are commented but look like this:
+
+- You can adjust the output quality and file format of the recordings in the app.ini file.
+This is found under My Documents/iRacing. The lines are commented but look like this:
+
 ![app.ini](https://i.ibb.co/92cbP7M/appIni.png)
