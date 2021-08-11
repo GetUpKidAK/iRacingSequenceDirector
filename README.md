@@ -2,7 +2,7 @@
 
 An editing tool for iRacing replays. Create a sequence of 'nodes' consisting of a time, driver and camera and the application will play back the sequence of shots for recording or viewing. Includes support for recording in iRacing itself using the built-in capture facility (no need for any external software) or can be used with capture software (OBS, etc.) if you have overlays you want to use.
 
-Each replay has its own save file so no need to edit everything in one session.
+Each replay has its own save file so no need to edit everything in one session. Also works nicely with custom cameras for setting up your own shots.
 
 ![App screenshot](https://i.ibb.co/D1czQ68/image.png)
 
@@ -30,6 +30,10 @@ Here's a quick video showing the basic features in an early release version.
 [![How to Use](http://img.youtube.com/vi/7DBsk7VQ1dU/0.jpg)](https://www.youtube.com/watch?v=7DBsk7VQ1dU)
 
 ## Guides
+
+### Using custom cameras
+
+You can use your own modified cameras using the iRacing Camera Tool. I've written a basic guide on how to do that here: https://docs.google.com/document/d/1EOWFVIqH9OppcqurmR_wzZs_czvqj3_zsKU_qR6fKfo/edit?usp=sharing
 
 ### Setting up iRacing in-sim capture
 
