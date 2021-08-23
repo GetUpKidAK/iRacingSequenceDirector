@@ -4,7 +4,7 @@ An editing tool for iRacing replays. Create a sequence of 'nodes' consisting of 
 
 Each replay has its own save file so no need to edit everything in one session. Also works nicely with custom cameras for setting up your own shots.
 
-![App screenshot](https://i.ibb.co/D1czQ68/image.png)
+![App screenshot](https://i.ibb.co/6RMwt2X/Capture.png)
 
 ## Installation
 
@@ -25,9 +25,10 @@ And that's pretty much it! Repeat the process, adding nodes where desired. You c
 
 Once you've finished 'editing' rewind back to where you'd like the replay to start and press Play to view what you've created, or Record to capture it using the in-sim capture or OBS. Guides for setting that up are below...
 
-Here's a quick video showing the basic features in an early release version.
+### Video
+Here's a video explaining some of the basics:
 
-[![How to Use](http://img.youtube.com/vi/7DBsk7VQ1dU/0.jpg)](https://www.youtube.com/watch?v=7DBsk7VQ1dU)
+[![How to Use](https://i.ibb.co/Lpp6wTr/Thumbnail-Play.png)](https://www.youtube.com/watch?v=amghnO6rE7U)
 
 ## Guides
 
