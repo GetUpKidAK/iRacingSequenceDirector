@@ -73,9 +73,9 @@ You'll need to restart the sim if this wasn't already enabled.
 
 ![Misc Settings](https://i.ibb.co/Rppt27d/Misc-Settings.jpg)
 
-- Enable the 'iRacing Capture' setting in Sequence Director under the Options -> Recording Capure Method menu:
+- Select the 'In-Sim Capture' setting in Sequence Director under the Capture Mode drop-down:
 
-![Capture settings](https://i.ibb.co/Z20sYnV/i-Racing-Capture.png)
+![Capture settings](https://i.ibb.co/FBJGtrK/image.png)
 
 **Notes:**
 The videos are saved in My Documents/iRacing/videos.
@@ -93,9 +93,9 @@ To use OBS recording without manually starting the recording process, you'll nee
 
 ![Hotkeys](https://i.ibb.co/89hcks2/image.png)
 
-- Enable the 'OBS' setting in Sequence Director under the Options -> Recording Capure Method menu:
+- Select the 'OBS Studio' setting in Sequence Director under the Options -> Recording Capure Method menu:
 
-![Capture settings](https://i.ibb.co/DwTFbKn/image.png)
+![Capture settings](https://i.ibb.co/FBJGtrK/image.png)
 
 **Note:** Only [OBS Studio](https://obsproject.com/) is supported at this time. The hotkey required can't be changed at this time.
 
