@@ -1,5 +1,7 @@
 # iRacing Sequence Director
 
+**_I no longer have an active iRacing subscription so I've open-sourced this project. You can get the full source code [here](https://github.com/GetUpKidAK/iRacingReplayTimeline)._**
+
 Create your own replay edits without any required editing knowledge. Create 'nodes' at points in your replay and choose this point to either cut to a different driver and/or camera or skip to further ahead in the replay. Sequence Director will then play this sequence of shots and time-skips back for recording or viewing.
 
 - No need for additional editing knowledge or software
